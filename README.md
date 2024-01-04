@@ -12,6 +12,8 @@ yarn --version and get an output like: x.x.x<br>
 
 clone the Reposotoriy using <br>
 ``` git clone https://github.com/zafiqul/ethers-simple-storage ``` <br>
+change the directory by using
+``` cd ethers-simple-storage ```
 use ``` yarn ``` to install dependency <br>
 use ``` node deploy.js``` to run the project  
 
