@@ -11,7 +11,7 @@ yarn --version and get an output like: x.x.x<br>
 
 
 clone the Reposotoriy using <br>
-``` code git clone https://github.com/zafiqul/ethers-simple-storage ``` <br>
+``` git clone https://github.com/zafiqul/ethers-simple-storage ``` <br>
 use ``` yarn ``` to install dependency <br>
 use ``` node deploy.js``` to run the project  
 
